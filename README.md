@@ -1,2 +1,2 @@
-# samitmohan.github.io
-Personal Website
+#motherfuckingwebsite
+how websites should be built
